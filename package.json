@@ -1,0 +1,25 @@
+{
+  "name": "webpack2_test",
+  "version": "1.0.0",
+  "description": "webpack2_test?",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shadowantz/webpack2.git"
+  },
+  "keywords": [
+    "don't"
+  ],
+  "author": "me",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Shadowantz/webpack2/issues"
+  },
+  "homepage": "https://github.com/Shadowantz/webpack2#readme",
+  "devDependencies": {
+    "webpack": "^2.2.1"
+  }
+}
